@@ -1,0 +1,118 @@
+SOURCEDUTY MATH FUNCTION FRAMEWORKS
+│
+├── Transmute_T                      → Transform input values into new forms while preserving essential properties
+├── synth_sys                    → Generate intricate patterns with combinations of powers, multiplication, addition operations
+├── slope_area                 → Calculate slope or area under the curve based on user input
+├── Relate_Q            → Quantifying relationships between entities or systems by comparing some shared quantity
+├── permsim           →  Generate probability distributions for complex scenarios using simulated permutation
+├── Optim_Thru           → Optimize the flow of items or information through a system.
+├── InterAct_F          → Quantifies the strength and direction of interaction between any two entities or variables
+├── Integrate_T         → Analyze how dynamic systems evolve over time
+├── Derive_x            → Analyze signals and extracting information about their instantaneous behavior over time
+├── Converge_D           → Quantify the distance between two objects or points that are moving towards each othe
+├── Comtag                      → Topological logic structures and tagging systems
+├── Contripot                   → Signal energy transformations and conversion modeling
+├── Factorchain                 → Prime factor networks and algebraic layering
+├── ImpactQ                     → Quantitative impact functions for logical variability
+├── Optimation Theorem          → Optimization in Boolean, quantum, and computational logic
+├── Linear Matrix               → Matrix-driven robotic control and cluster computation
+├── Linear Matrix Signal        → Robotic motion planning and autonomous vehicle navigation
+├── Modbias                     → Modular bias detection and fairness tuning in logic
+├── Navisol                     → Signal-based navigation and pathfinding frameworks
+├── Flow_T                      → Quantifies the rate at which any substance or energy flows through a system over time
+├── FluctV                      → Model functions that exhibit periodic fluctuations between two distinct values
+├── Info_Impact                 → Calculate the potential impact on an organization from a piece of new or updated data
+├── Multiscanf                  → Define complex piecewise functions with different behaviors
+├── multiswitchv                → Extension of the SwitchV that allows for multiple distinct values to be switched
+├── phase_shiftv                → Represent periodic, phase-shifted behavior of functions based on the input and parameters
+├── polymathic                  → Customizable and adaptable to specific problem domains
+├── switch_add                  → Switching between different bases or number systems during the summation process
+├── switchmod                   → Embeded conditional logic into periodic functions
+├── switchseq                   → Complex patterning with periodic behavior in mathematical expressions
+├── switchx                     → Multi-valued switching functions from simpler components
+├── trans_po                    → Dynamic expression manipulation to embed flexible, adaptive behavior directly
+├── transmog                    → Encoding conditional logic directly into mathematical expressions
+├── transloc                    → Construct families of mappings between input spaces
+├── Passaffect                  → Flow-controlled logic via affective passing structures
+├── Quadexpo                    → Exponential-quadratic growth models and forecasting
+├── Reactivar                   → System reactivation and state-restoration algorithms
+├── Signal Optimate             → Optimized signal control for networks and traffic systems
+├── Signal Wave                 → Waveform-based logic patterns and functional resonance
+├── Percent Multiple            → Calculate the product between a percentage value
+├── Truthvar                    → Truth-variable frameworks for adaptive decision systems
+├── Joint Driver                → Adapt and compute values on demand with dynamic weighting
+├── Universal Organization      → Single-task and multi-task systems
+├── FlopV                       → Flip-flop digital logic
+├── Inversonic                  → Combines exponential growth with an inverse square root expression
+├── GradLog                     → Gradual dynamic preset logic operation
+├── Abstract_Away               → Return an equivalent simplified expression that captures the essential meaning of the original
+├── Check_Compare               → Compare two input values, x1 and x2, against three predefined thresholds
+├── Code_Value                  → Calculate the monetary value of code
+├── Complex_Forecast            → Predict the computational complexity of any given algorithm or program
+├── explogint                   → Combines the properties of both the exponential and logarithmic functions in a unique manner.
+├── exptrigprod                 → Combines the properties of both trigonometric and exponential functions
+├── Fractal Function            → Combines the quadratic behavior of a simple parabola with an oscillating sine wave
+├── Info_Value                  → Calculate the financial value of information
+├── Optimal Adding              → Find the optimal combination of numbers within an input sequence
+├── Optimal_Scale               → Determine the optimal scale factor that maximizes performance
+├── Optimal_Condition           → Determine the optimal conditions for achieving maximum efficiency or performance   
+├── k-Variant                   → Algebraic preapplied variant for data pre-processing
+├── TolSum                      → Tolerance-based additive optimization
+├── Q-Neuron                    → Quantum-superposition neuronal computation
+├── OpLog                       → Built-in boolean comparison logic
+├── DistRed                     → Dynamic stochastic reduction function
+├── PreJunc                     → Pre-processed algebraic transformation
+├── BIE                         → Cooperation and competition in a dynamic environment
+├── RetExtra                    → Real-time extraction using predefined numerical ranges
+├── AdaptDif                    → Quantified transformation between entities
+├── Chargen                     → Time-varying rate of electric charge or discharge accumulation at any given instant
+├── OptRef                      → Interval-preserving refinement and constrained transformation
+├── Infinity Control            → Asymptotic regulation of infinite limits
+├── SwitchV                     → Alternation between dual-state variables
+├── SwapV                       → Interchanging elements of an array or matrix
+├── StateMod                    → Adaptive condition-based switching
+├── ReactComp                   → Dynamic chemical reaction modeling
+├── DetFilter                   → Selective identification using logical and symbolic filtration
+├── SuperShoot                  → Accelerate growth rates exponentially
+├── Timeline Graph Matrix       → Visualization technique graph theory principles with matrix algebra
+├── InterBound                  → Find where a moving object meets a boundary
+├── Summationic                 → Complex nested summations over multiple variables.
+├── WeightPar                   → Score different parsing possibilities
+├── InterAffect                 → Quantify how an input variable influences another variable
+├── RealResp                    → Adaptively tune neural weights in real time
+├── EncodEx                     → Encode raw data for machine learning algorithms
+├── ProxSim                     → Realistic simulations of complex systems
+├── Percent Power               → Quantify and compare the relative strengths of two entities
+├── BrinkMet                    → How much a value exceeds a baseline
+├── Weighted State              → A combined and optimized state subfunction that can be applied across various domains
+├── Add_Multiple                → Multiplication followed by direct addition with another operand C
+├── Radicant                    → Combine exponential growth with radical expressions
+├── CustomV                     → Dynamically modify the behavior of another variable
+├── Combine_It                  → Select subsets or combinations of elements without regard to order
+├── Circulate_Seq               → Moves an element or group of elements from one position to another within a sequence
+├── CheckEst                    → Combine data checking and estimation into one unified operation
+├── check_add                   → Multiple levels of checks against predefined criteria with addition
+├── Attract_F                   → Quantifying the attractive force between any two objects with mass
+├── Add_Multisplit              → Combined addition, multiplication, and splitting into multiple parts
+├── adapt_add                   → Applies a set of selection criteria to determine which inputs should be added together at each step
+├── Compress_F                  → Efficient representation of large amounts of digital data using fewer bits      
+├── DistribuTar                 → Distribute resources or apply influences across various targets
+├── KnoProblem                  → General-purpose math problem-solving framework
+├── Quclip                      → Topological quantum error correction codes for universal computation on NISQ devices
+├── CyclSeq                     → Cyclic iterator that yields elements from a sequence
+├── WeightSig                   → Dynamically adjust real-time signal weights 
+├── Oscillant Function          → Combines exponential growth and sinusoidal oscillations in a periodic manner
+├── Multiply-Percent            → Takes two inputs for percentage-based multiplications
+├── In-Out_Analysis             → Assessment of the relationship between inputs and outputs
+├── Equation Circulation        → Analyze the circulation of equations within a given system or context
+├── Computation Percent         → Calculates the percentage of computational effort required to complete a given task or process
+├── Adding Computation          → A unique computational function using addition, multiplication, exponentiation, and recursion
+├── Abstraction Level           → Quantifies the degree of abstraction present within any given system, structure or concept
+├── Add_Multiply                → Add two input values together, then multiply their sum by an additional number
+├── SensVar                     → Quantify output sensitivity to input changes
+├── DynaSim                     → Output of a system after applying a specific set of inputs and parameters beforehand
+├── Quantum Gradient Descent    → Find the minimum of an objective function by iteratively updating parameters
+├── Precent-Root                → Calculate the square root of a decimal equivalent and multiply the result by 100%
+└── WaveMap                     → Adaptive signal-to-signal modulation 
+
+Total: 114
