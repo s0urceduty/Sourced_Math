@@ -7,120 +7,143 @@ Beyond pure mathematics, Sourced Math extends into real-time adaptive systems an
 Functions:
 ------------
 
-1. `Transmute_T(x)`: This function transforms input values into alternative mathematical forms while preserving their essential structural properties.
-2. `synth_sys(a, b, c, ...)`: This function generates intricate composite expressions using powers, multiplication, and addition operations.
-3. `slope_area(f, interval)`: This function computes either the slope at a point or the accumulated area under a curve across a defined interval.
-4. `Relate_Q(entity1, entity2)`: This function quantifies the measurable relationship between two entities based on shared variables.
-5. `permsim(dataset)`: This function simulates permutations to approximate probability distributions for complex systems.
-6. `Optim_Thru(system)`: This function optimizes the throughput of resources, signals, or information across a structured pathway.
-7. `InterAct_F(x, y)`: This function measures the strength and directional influence between two interacting variables.
-8. `Integrate_T(system, t)`: This function evaluates how a dynamic system evolves across time.
-9. `Derive_x(signal)`: This function extracts instantaneous rate-of-change behavior from a signal or variable.
-10. `Converge_D(obj1, obj2)`: This function calculates the convergence distance between two moving entities.
-11. `Comtag(structure)`: This function applies topological tagging logic to categorize structured systems.
-12. `Contripot(signal)`: This function models energy transformation and conversion within signal-based systems.
-13. `Factorchain(n)`: This function builds prime factor networks and layered algebraic decompositions.
-14. `ImpactQ(variable)`: This function computes the quantitative impact of a variable within a logical or computational framework.
-15. `Optimation_Theorem(problem)`: This function performs Boolean or quantum-based logical optimization.
-16. `Linear_Matrix(matrix)`: This function executes matrix-driven computation and control modeling.
-17. `Linear_Matrix_Signal(path)`: This function applies matrix frameworks to autonomous navigation and motion planning.
-18. `Modbias(data)`: This function detects and adjusts modular bias within logical systems.
-19. `Navisol(map_data)`: This function computes optimized navigation paths using signal-based modeling.
-20. `Flow_T(quantity, time)`: This function measures the rate of flow of a substance or energy over time.
-21. `FluctV(x)`: This function models periodic fluctuation between defined states.
-22. `Info_Impact(data)`: This function calculates the projected organizational impact of new information.
-23. `Multiscanf(x)`: This function defines and evaluates piecewise functions with multiple behavioral regions.
-24. `multiswitchv(x)`: This function switches among multiple discrete states based on defined conditions.
-25. `phase_shiftv(x, phase)`: This function generates phase-shifted periodic function behavior.
-26. `polymathic(domain)`: This function adapts computational logic dynamically to specific problem domains.
-27. `switch_add(sequence)`: This function performs summation while switching between numeric bases.
-28. `switchmod(x)`: This function embeds conditional switching logic into periodic functions.
-29. `switchseq(sequence)`: This function generates periodic and conditional pattern sequences.
-30. `switchx(x)`: This function composes multi-valued switching logic from simpler components.
-31. `trans_po(expression)`: This function embeds adaptive transformation logic directly into expressions.
-32. `transmog(expression)`: This function encodes conditional logic structures mathematically.
-33. `transloc(space1, space2)`: This function constructs mappings between distinct input spaces.
-34. `Passaffect(system)`: This function regulates logical flow through affect-driven passing structures.
-35. `Quadexpo(x)`: This function models exponential-quadratic growth behavior.
-36. `Reactivar(system)`: This function restores a system to a prior stable operational state.
-37. `Signal_Optimate(network)`: This function optimizes signal control within networked systems.
-38. `Signal_Wave(params)`: This function generates waveform-based logic and resonance patterns.
-39. `Percent_Multiple(value, percent)`: This function multiplies a value by a percentage factor.
-40. `Truthvar(statement)`: This function evaluates adaptive truth-variable logic states.
-41. `Joint_Driver(weights)`: This function dynamically computes outputs using weighted adaptive variables.
-42. `Universal_Organization(tasks)`: This function orchestrates single-task or multi-task system coordination.
-43. `FlopV(state)`: This function performs flip-flop digital state transitions.
-44. `Inversonic(x)`: This function combines exponential growth with inverse square root decay.
-45. `GradLog(x)`: This function applies gradual preset logic adjustments.
-46. `Abstract_Away(expression)`: This function simplifies expressions while preserving core structure.
-47. `Check_Compare(x1, x2)`: This function compares inputs against defined threshold sets.
-48. `Code_Value(codebase)`: This function estimates the monetary value of code assets.
-49. `Complex_Forecast(algorithm)`: This function predicts computational complexity behavior.
-50. `explogint(x)`: This function merges exponential and logarithmic dynamics into one model.
-51. `exptrigprod(x)`: This function combines trigonometric oscillations with exponential growth.
-52. `Fractal_Function(x)`: This function blends quadratic and sinusoidal patterns into fractal-like behavior.
-53. `Info_Value(data)`: This function evaluates the financial worth of information assets.
-54. `Optimal_Adding(sequence)`: This function determines the most optimal additive combination.
-55. `Optimal_Scale(system)`: This function computes the optimal scale factor for performance maximization.
-56. `Optimal_Condition(system)`: This function identifies conditions required for peak efficiency.
-57. `k_Variant(data)`: This function preprocesses data using algebraic variant transformation.
-58. `TolSum(values)`: This function performs tolerance-based additive optimization.
-59. `Q_Neuron(state)`: This function simulates quantum-superposition-inspired neural computation.
-60. `OpLog(a, b)`: This function executes Boolean comparison logic.
-61. `DistRed(system)`: This function performs stochastic reduction on dynamic systems.
-62. `PreJunc(expression)`: This function applies algebraic preprocessing transformations.
-63. `BIE(environment)`: This function models cooperative and competitive interactions dynamically.
-64. `RetExtra(data)`: This function extracts bounded real-time numerical segments.
-65. `AdaptDif(entity1, entity2)`: This function measures quantified transformation differences.
-66. `Chargen(current, time)`: This function models instantaneous electric charge accumulation.
-67. `OptRef(interval)`: This function refines intervals while preserving constraints.
-68. `Infinity_Control(limit)`: This function regulates asymptotic infinite behaviors.
-69. `SwitchV(x)`: This function alternates between dual-state variables.
-70. `SwapV(matrix)`: This function swaps selected elements within arrays or matrices.
-71. `StateMod(system)`: This function performs adaptive state-based switching.
-72. `ReactComp(reaction)`: This function models dynamic chemical reactions.
-73. `DetFilter(data)`: This function filters inputs using logical and symbolic criteria.
-74. `SuperShoot(rate)`: This function accelerates growth exponentially.
-75. `Timeline_Graph_Matrix(graph)`: This function visualizes time-based graph structures using matrix algebra.
-76. `InterBound(object, boundary)`: This function determines boundary intersection points.
-77. `Summationic(variables)`: This function computes nested multi-variable summations.
-78. `WeightPar(parse_tree)`: This function scores parsing configurations dynamically.
-79. `InterAffect(x, y)`: This function quantifies how one variable influences another.
-80. `RealResp(neural_net)`: This function adaptively tunes neural weights in real time.
-81. `EncodEx(data)`: This function encodes raw data for machine learning processing.
-82. `ProxSim(system)`: This function simulates realistic behavior in complex systems.
-83. `Percent_Power(a, b)`: This function compares relative strengths proportionally.
-84. `BrinkMet(value, baseline)`: This function measures how far a value exceeds a baseline.
-85. `Weighted_State(states)`: This function constructs an optimized composite system state.
-86. `Add_Multiple(a, b, c)`: This function multiplies inputs before applying additive combination.
-87. `Radicant(x)`: This function merges exponential and radical components.
-88. `CustomV(variable)`: This function dynamically modifies another variable’s behavior.
-89. `Combine_It(set_data)`: This function selects order-independent subsets.
-90. `Circulate_Seq(sequence)`: This function cyclically shifts elements within a sequence.
-91. `CheckEst(data)`: This function integrates validation and estimation procedures.
-92. `check_add(values)`: This function performs layered validation with additive logic.
-93. `Attract_F(m1, m2, r)`: This function quantifies attractive force between mass-based entities.
-94. `Add_Multisplit(values)`: This function combines addition, multiplication, and splitting logic.
-95. `adapt_add(values)`: This function adaptively selects and sums qualifying inputs.
-96. `Compress_F(data)`: This function models efficient digital data compression.
-97. `DistribuTar(resources)`: This function distributes resources across defined targets.
-98. `KnoProblem(problem)`: This function provides a general-purpose math problem-solving structure.
-99. `Quclip(qubits)`: This function models topological quantum error correction encoding.
-100. `CyclSeq(sequence)`: This function iterates cyclically through sequence elements.
-101. `WeightSig(signal)`: This function dynamically adjusts signal weights in real time.
-102. `Oscillant_Function(x)`: This function combines exponential growth with sinusoidal oscillation.
-103. `Multiply_Percent(a, b)`: This function performs percentage-based multiplication between two inputs.
-104. `In_Out_Analysis(inputs, outputs)`: This function evaluates relationships between system inputs and outputs.
-105. `Equation_Circulation(system)`: This function analyzes equation flow within a structured system.
-106. `Computation_Percent(task)`: This function estimates computational effort percentage.
-107. `Adding_Computation(values)`: This function performs recursive additive computation modeling.
-108. `Abstraction_Level(system)`: This function quantifies conceptual abstraction degree.
-109. `Add_Multiply(a, b, c)`: This function adds two values and multiplies their sum by a third.
-110. `SensVar(input_var)`: This function measures output sensitivity to input changes.
-111. `DynaSim(parameters)`: This function outputs system behavior after parameter application.
-112. `Quantum_Gradient_Descent(objective)`: This function iteratively minimizes an objective function.
-113. `Precent_Root(value)`: This function computes the square root of a decimal and scales it as a percentage.
-114. `WaveMap(signal)`: This function performs adaptive signal-to-signal modulation.
+#### ARITHMETIC AND ALGEBRAIC FOUNDATIONS
+1. `Add_A(x, y)`: Performs the summation of two numerical inputs within a defined algebraic field.
+2. `Subtract_A(x, y)`: Computes the difference between two values, often used to determine relative distance.
+3. `Multiply_A(x, y)`: Executes scalar or vector multiplication depending on the input space.
+4. `Divide_A(x, y)`: Calculates the quotient of two values, handling zero-division exceptions.
+5. `Modulo_A(x, n)`: Returns the remainder after division, essential for periodic calculations.
+6. `Power_P(x, n)`: Raises a base value to a specified exponent for growth modeling.
+7. `Root_R(x, n)`: Extracts the n-th root of a value, the inverse operation of exponentiation.
+8. `Factorial_F(n)`: Computes the product of all positive integers up to n, vital for combinatorics.
+9. `Absolute_V(x)`: Returns the non-negative magnitude of a value regardless of its sign.
+10. `Floor_F(x)`: Maps a real number to the largest previous integer.
+11. `Ceiling_C(x)`: Maps a real number to the smallest subsequent integer.
+12. `Round_R(x, d)`: Approximates a numerical value to a specified number of decimal places.
+13. `Reciprocal_R(x)`: Returns the multiplicative inverse of the input value.
+14. `Sign_S(x)`: Identifies the polarity of a number, returning -1, 0, or 1.
+15. `Mean_M(v)`: Computes the arithmetic average of a given dataset.
+16. `Median_M(v)`: Identifies the middle value in a sorted numerical sequence.
+17. `Variance_V(v)`: Measures the spread of numbers in a dataset relative to the mean.
+18. `Deviation_S(v)`: Calculates the standard deviation to quantify data dispersion.
+19. `Permutation_P(n, k)`: Calculates the number of ways to arrange k items from n.
+20. `Combination_C(n, k)`: Determines the number of ways to select k items from n without regard to order.
+
+#### TRIGONOMETRIC AND CIRCULAR FUNCTIONS
+21. `Sine_S(θ)`: Returns the vertical coordinate of a point on a unit circle at angle θ.
+22. `Cosine_C(θ)`: Returns the horizontal coordinate of a point on a unit circle at angle θ.
+23. `Tangent_T(θ)`: Computes the ratio of sine to cosine, representing a slope.
+24. `Secant_S(θ)`: Returns the reciprocal of the cosine function.
+25. `Cosecant_C(θ)`: Returns the reciprocal of the sine function.
+26. `Cotangent_C(θ)`: Returns the reciprocal of the tangent function.
+27. `ArcSine_A(x)`: The inverse sine function, returning the angle for a given ratio.
+28. `ArcCosine_A(x)`: The inverse cosine function, determining the angle for a given x-coordinate.
+29. `ArcTangent_A(x)`: The inverse tangent function, identifying the angle of a slope.
+30. `HyperbolicSine_H(x)`: Models growth and decay patterns via the (e^x - e^-x)/2 formula.
+31. `HyperbolicCosine_H(x)`: Represents the shape of a hanging cable (catenary).
+32. `HyperbolicTangent_H(x)`: Used frequently in neural network activation layers.
+33. `DegreesToRadians_C(d)`: Converts angular measurements from degrees to the radian system.
+34. `RadiansToDegrees_C(r)`: Converts radial measurements back into standard degrees.
+
+#### LOGARITHMIC AND EXPONENTIAL SYSTEMS
+35. `Exp_E(x)`: Calculates the constant e raised to the power of x.
+36. `LogNatural_L(x)`: Computes the logarithm with base e, common in calculus.
+37. `LogBase10_L(x)`: Determines the exponent needed to produce a value using base 10.
+38. `LogBase2_L(x)`: Calculates bit-depth requirements and binary complexity.
+39. `LogBaseN_L(x, n)`: A generalized logarithm function for any positive base n.
+40. `Logistic_L(x)`: Maps any real-valued number into a range between 0 and 1.
+41. `Softmax_S(v)`: Normalizes a vector into a probability distribution.
+
+#### VECTOR AND MATRIX OPERATIONS
+42. `DotProduct_V(a, b)`: Calculates the scalar product of two vectors to find alignment.
+43. `CrossProduct_V(a, b)`: Produces a third vector perpendicular to the original pair.
+44. `Magnitude_V(v)`: Computes the Euclidean length of a vector in n-dimensional space.
+45. `Normalize_V(v)`: Scales a vector to a magnitude of 1 while keeping its direction.
+46. `Transpose_M(m)`: Flips a matrix over its diagonal, switching rows and columns.
+47. `Determinant_M(m)`: Provides a scalar value reflecting the scaling factor of a matrix.
+48. `Inverse_M(m)`: Finds the matrix that, when multiplied by the original, yields identity.
+49. `Trace_M(m)`: Sums the elements on the main diagonal of a square matrix.
+50. `EigenValues_E(m)`: Extracts scalars associated with linear transformations.
+51. `EigenVectors_E(m)`: Identifies the directions that remain unchanged during transformation.
+
+#### CALCULUS AND NUMERICAL ANALYSIS
+52. `Derivative_D(f, x)`: Estimates the instantaneous rate of change of a function at x.
+53. `Integral_I(f, a, b)`: Computes the area under a curve between two bounds.
+54. `Gradient_G(f, v)`: Returns a vector of partial derivatives for multivariable functions.
+55. `Hessian_H(f, v)`: Calculates the square matrix of second-order partial derivatives.
+56. `Jacobian_J(f, v)`: Represents the best linear approximation of a differentiable map.
+57. `Laplacian_L(f)`: Measures the divergence of the gradient of a scalar field.
+58. `TaylorSeries_T(f, n)`: Approximates a function using an infinite sum of derivatives.
+59. `NewtonRaphson_N(f, x)`: Iteratively finds the roots of a real-valued function.
+
+#### LOGIC AND SET THEORY
+60. `Union_S(a, b)`: Combines all unique elements from two distinct sets.
+61. `Intersection_I(a, b)`: Identifies elements common to both input sets.
+62. `Difference_D(a, b)`: Returns elements present in set A but not in set B.
+63. `Complement_C(a, u)`: Finds elements in the universal set not present in set A.
+64. `PowerSet_P(s)`: Generates all possible subsets of a given set.
+65. `CartesianProduct_C(a, b)`: Creates a set of all ordered pairs from two sets.
+66. `LogicalAND_L(p, q)`: Returns true only if both propositions are true.
+67. `LogicalOR_L(p, q)`: Returns true if at least one proposition is true.
+68. `LogicalXOR_L(p, q)`: Returns true only if the inputs differ.
+69. `LogicalNOT_L(p)`: Reverses the truth value of a proposition.
+
+#### STATISTICAL DISTRIBUTIONS AND PROBABILITY
+70. `NormalPDF_N(x, μ, σ)`: Calculates the probability density of the Gaussian distribution.
+71. `NormalCDF_N(x, μ, σ)`: Determines the cumulative probability for a normal variable.
+72. `Binomial_B(n, p, k)`: Computes the probability of exactly k successes in n trials.
+73. `Poisson_P(λ, k)`: Models the probability of events occurring in a fixed interval.
+74. `Bayes_B(a, b)`: Updates the probability of a hypothesis based on new evidence.
+75. `Correlation_C(x, y)`: Measures the linear relationship between two variables.
+76. `RegressionLinear_R(x, y)`: Fits a straight line to a set of data points.
+
+#### COMPLEX NUMBERS AND SIGNAL PROCESSING
+77. `ComplexAdd_C(z1, z2)`: Sums the real and imaginary parts of complex numbers.
+78. `Conjugate_C(z)`: Flips the sign of the imaginary component of a complex number.
+79. `FourierTransform_F(v)`: Converts a time-domain signal into its frequency components.
+80. `InverseFourier_F(v)`: Reconstructs a signal from its frequency domain.
+81. `Magnitude_C(z)`: Finds the distance from the origin in the complex plane.
+82. `Phase_P(z)`: Determines the angle of a complex number relative to the real axis.
+
+#### SPECIAL MATHEMATICAL TRANSFORMS
+83. `Transmute_T(x)`: This function transforms input values into alternative mathematical forms while preserving their essential structural properties.
+84. `LaplaceTransform_L(f)`: Converts differential equations into easier algebraic forms.
+85. `ZTransform_Z(v)`: The discrete-time equivalent of the Laplace transform.
+86. `WaveletTransform_W(v)`: Analyzes signals at different scales or resolutions.
+87. `Sigmoid_S(x)`: A specific S-shaped curve used to map values to a range.
+88. `ReLU_R(x)`: A Rectified Linear Unit function that returns zero for negative inputs.
+
+#### DISCRETE MATH AND NUMBER THEORY
+89. `GCD_G(a, b)`: Finds the greatest common divisor between two integers.
+90. `LCM_L(a, b)`: Identifies the least common multiple of two integers.
+91. `IsPrime_P(n)`: Evaluates whether a number has exactly two distinct divisors.
+92. `PrimesToN_P(n)`: Generates a list of all prime numbers up to value n.
+93. `Totient_T(n)`: Counts the positive integers up to n that are relatively prime to n.
+94. `Fibonacci_F(n)`: Computes the n-th value in the integer sequence.
+95. `Collatz_C(n)`: Applies the 3n+1 algorithm to evaluate sequence convergence.
+96. `ModInverse_M(a, n)`: Finds the modular multiplicative inverse of an integer.
+
+#### GEOMETRIC AND TOPOLOGICAL UTILITIES
+97. `EuclideanDistance_D(p1, p2)`: Calculates the straight-line distance between two points.
+98. `ManhattanDistance_D(p1, p2)`: Measures distance along axes at right angles.
+99. `ChebyshevDistance_D(p1, p2)`: Determines the maximum coordinate difference between points.
+100. `AreaTriangle_A(a, b, c)`: Calculates area using Heron’s formula.
+101. `VolumeSphere_V(r)`: Computes the three-dimensional space enclosed by a sphere.
+102. `PerimeterCircle_P(r)`: Returns the circumference of a circle given its radius.
+103. `Centroid_C(points)`: Finds the geometric center of a polygon.
+
+#### ADVANCED OPERATIONAL LOGIC
+104. `Map_M(v, f)`: Applies a specific function to every element in a list.
+105. `Filter_F(v, p)`: Selects elements from a dataset based on a predicate.
+106. `Reduce_R(v, f)`: Condenses a list into a single value using an accumulator.
+107. `Compose_C(f, g)`: Joins two functions such that the output of one is the input of the other.
+108. `Curry_C(f)`: Breaks down a multi-argument function into a sequence of unary functions.
+109. `Memoize_M(f)`: Stores results of expensive function calls for reuse.
+110. `Pipeline_P(v, functions)`: Passes data through a sequence of operations.
+111. `Clamp_C(x, min, max)`: Restricts a value to a specified numerical range.
+112. `InterpolateLinear_I(a, b, t)`: Estimates values between two points linearly.
+113. `SmoothStep_S(t)`: Provides a smooth transition between 0 and 1.
+114. `NoisePerlin_N(x, y)`: Generates gradient noise for procedural textures.
 
 Prototype Lib
 ------------
