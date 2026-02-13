@@ -7,120 +7,120 @@ Beyond pure mathematics, Sourced Math extends into real-time adaptive systems an
 Functions:
 ------------
 
-1. Transmute_T - Transform input values into new forms while preserving essential properties
-2. synth_sys - Generate intricate patterns using powers, multiplication, and addition
-3. slope_area - Calculate slope or area under a curve
-4. Relate_Q - Quantify relationships between entities via shared quantities
-5. permsim - Generate probability distributions using permutation simulation
-6. Optim_Thru - Optimize flow through a system
-7. InterAct_F - Quantify interaction strength and direction
-8. Integrate_T - Analyze dynamic system evolution over time
-9. Derive_x - Extract instantaneous signal behavior
-10. Converge_D - Measure convergence distance between moving entities
-11. Comtag - Topological logic tagging framework
-12. Contripot - Signal energy transformation modeling
-13. Factorchain - Prime factor networks and algebraic layering
-14. ImpactQ - Quantitative impact evaluation
-15. Optimation_Theorem - Logical optimization in Boolean/quantum systems
-16. Linear_Matrix - Matrix-driven control and computation
-17. Linear_Matrix_Signal - Autonomous navigation matrix framework
-18. Modbias - Modular bias detection and fairness tuning
-19. Navisol - Signal-based navigation/pathfinding
-20. Flow_T - Flow rate quantification over time
-21. FluctV - Periodic fluctuation modeling
-22. Info_Impact - Organizational data impact calculation
-23. Multiscanf - Complex piecewise function definition
-24. multiswitchv - Multi-state switching extension
-25. phase_shiftv - Phase-shifted periodic modeling
-26. polymathic - Domain-adaptive customization framework
-27. switch_add - Base-switching during summation
-28. switchmod - Conditional logic in periodic functions
-29. switchseq - Periodic sequence logic patterning
-30. switchx - Multi-valued switching composition
-31. trans_po - Adaptive dynamic expression embedding
-32. transmog - Conditional logic encoding in expressions
-33. transloc - Mapping families between input spaces
-34. Passaffect - Flow-controlled logic passing
-35. Quadexpo - Exponential-quadratic growth modeling
-36. Reactivar - System reactivation algorithms
-37. Signal_Optimate - Optimized signal control
-38. Signal_Wave - Waveform-based logic patterns
-39. Percent_Multiple - Percentage-based multiplication
-40. Truthvar - Adaptive truth-variable logic framework
-41. Joint_Driver - Dynamic weighted computation
-42. Universal_Organization - Unified single/multi-task framework
-43. FlopV - Flip-flop digital logic
-44. Inversonic - Exponential growth with inverse square root
-45. GradLog - Gradual preset logic operations
-46. Abstract_Away - Expression simplification framework
-47. Check_Compare - Multi-threshold comparison
-48. Code_Value - Monetary code valuation
-49. Complex_Forecast - Algorithmic complexity prediction
-50. explogint - Hybrid exponential-logarithmic modeling
-51. exptrigprod - Exponential-trigonometric combination
-52. Fractal_Function - Parabolic-sine hybrid oscillation
-53. Info_Value - Financial information valuation
-54. Optimal_Adding - Optimal numeric combination search
-55. Optimal_Scale - Performance-maximizing scaling
-56. Optimal_Condition - Efficiency-maximizing condition finder
-57. k_Variant - Algebraic preprocessing variant
-58. TolSum - Tolerance-based additive optimization
-59. Q_Neuron - Quantum-superposition neuronal computation
-60. OpLog - Boolean comparison logic
-61. DistRed - Dynamic stochastic reduction
-62. PreJunc - Algebraic preprocessing transformation
-63. BIE - Cooperative/competitive environment modeling
-64. RetExtra - Real-time bounded extraction
-65. AdaptDif - Quantified transformation measure
-66. Chargen - Electric charge accumulation rate
-67. OptRef - Interval-preserving refinement
-68. Infinity_Control - Asymptotic limit regulation
-69. SwitchV - Dual-state alternation
-70. SwapV - Matrix/array element swapping
-71. StateMod - Adaptive conditional switching
-72. ReactComp - Chemical reaction modeling
-73. DetFilter - Logical/symbolic filtering
-74. SuperShoot - Accelerated exponential growth
-75. Timeline_Graph_Matrix - Graph-matrix visualization model
-76. InterBound - Moving boundary intersection detection
-77. Summationic - Nested multi-variable summations
-78. WeightPar - Parsing weight evaluation
-79. InterAffect - Influence quantification
-80. RealResp - Real-time neural adaptation
-81. EncodEx - Machine learning encoding framework
-82. ProxSim - Realistic complex system simulation
-83. Percent_Power - Relative strength quantification
-84. BrinkMet - Baseline exceedance measurement
-85. Weighted_State - Optimized composite state modeling
-86. Add_Multiple - Multiply then add operation
-87. Radicant - Exponential-radical hybrid function
-88. CustomV - Dynamic variable modification
-89. Combine_It - Order-independent subset selection
-90. Circulate_Seq - Sequence element cycling
-91. CheckEst - Combined checking and estimation
-92. check_add - Multi-level criteria with addition
-93. Attract_F - Gravitational-like attraction modeling
-94. Add_Multisplit - Add-multiply-split hybrid function
-95. adapt_add - Criteria-based adaptive addition
-96. Compress_F - Digital data compression modeling
-97. DistribuTar - Targeted resource distribution
-98. KnoProblem - General-purpose problem-solving framework
-99. Quclip - Quantum error correction framework
-100. CyclSeq - Cyclic iterator
-101. WeightSig - Real-time signal weighting
-102. Oscillant_Function - Exponential-sinusoidal periodic model
-103. Multiply_Percent - Dual-input percentage multiplication
-104. In_Out_Analysis - Input-output relationship assessment
-105. Equation_Circulation - Equation flow analysis
-106. Computation_Percent - Computational effort estimation
-107. Adding_Computation - Recursive additive computation model
-108. Abstraction_Level - Degree-of-abstraction quantifier
-109. Add_Multiply - Add then multiply composite operator
-110. SensVar - Sensitivity analysis function
-111. DynaSim - Parameterized system simulation output
-112. Quantum_Gradient_Descent - Iterative optimization minimizer
-113. Precent_Root - Square-root percentage scaling
-114. WaveMap - Adaptive signal modulation framework
+1. 'Transmute_T' - Transform input values into new forms while preserving essential properties
+2. 'synth_sys' - Generate intricate patterns using powers, multiplication, and addition
+3. 'slope_area' - Calculate slope or area under a curve
+4. 'Relate_Q' - Quantify relationships between entities via shared quantities
+5. 'permsim' - Generate probability distributions using permutation simulation
+6. 'Optim_Thru' - Optimize flow through a system
+7. 'InterAct_F' - Quantify interaction strength and direction
+8. 'Integrate_T' - Analyze dynamic system evolution over time
+9. 'Derive_x' - Extract instantaneous signal behavior
+10. 'Converge_D' - Measure convergence distance between moving entities
+11. 'Comtag' - Topological logic tagging framework
+12. 'Contripot' - Signal energy transformation modeling
+13. 'Factorchain' - Prime factor networks and algebraic layering
+14. 'ImpactQ' - Quantitative impact evaluation
+15. 'Optimation_Theorem' - Logical optimization in Boolean and quantum systems
+16. 'Linear_Matrix' - Matrix-driven control and computation
+17. 'Linear_Matrix_Signal' - Autonomous navigation matrix framework
+18. 'Modbias' - Modular bias detection and fairness tuning
+19. 'Navisol' - Signal-based navigation and pathfinding
+20. 'Flow_T' - Flow rate quantification over time
+21. 'FluctV' - Periodic fluctuation modeling
+22. 'Info_Impact' - Organizational data impact calculation
+23. 'Multiscanf' - Complex piecewise function definition
+24. 'multiswitchv' - Multi-state switching extension
+25. 'phase_shiftv' - Phase-shifted periodic modeling
+26. 'polymathic' - Domain-adaptive customization framework
+27. 'switch_add' - Base-switching during summation
+28. 'switchmod' - Conditional logic in periodic functions
+29. 'switchseq' - Periodic sequence logic patterning
+30. 'switchx' - Multi-valued switching composition
+31. 'trans_po' - Adaptive dynamic expression embedding
+32. 'transmog' - Conditional logic encoding in expressions
+33. 'transloc' - Mapping families between input spaces
+34. 'Passaffect' - Flow-controlled logic passing
+35. 'Quadexpo' - Exponential-quadratic growth modeling
+36. 'Reactivar' - System reactivation algorithms
+37. 'Signal_Optimate' - Optimized signal control
+38. 'Signal_Wave' - Waveform-based logic patterns
+39. 'Percent_Multiple' - Percentage-based multiplication
+40. 'Truthvar' - Adaptive truth-variable logic framework
+41. 'Joint_Driver' - Dynamic weighted computation
+42. 'Universal_Organization' - Unified single and multi-task framework
+43. 'FlopV' - Flip-flop digital logic
+44. 'Inversonic' - Exponential growth with inverse square root behavior
+45. 'GradLog' - Gradual preset logic operations
+46. 'Abstract_Away' - Expression simplification framework
+47. 'Check_Compare' - Multi-threshold comparison
+48. 'Code_Value' - Monetary code valuation
+49. 'Complex_Forecast' - Algorithmic complexity prediction
+50. 'explogint' - Hybrid exponential-logarithmic modeling
+51. 'exptrigprod' - Exponential-trigonometric combination
+52. 'Fractal_Function' - Parabolic-sine hybrid oscillation model
+53. 'Info_Value' - Financial information valuation
+54. 'Optimal_Adding' - Optimal numeric combination search
+55. 'Optimal_Scale' - Performance-maximizing scaling
+56. 'Optimal_Condition' - Efficiency-maximizing condition finder
+57. 'k_Variant' - Algebraic preprocessing variant
+58. 'TolSum' - Tolerance-based additive optimization
+59. 'Q_Neuron' - Quantum-superposition neuronal computation
+60. 'OpLog' - Boolean comparison logic
+61. 'DistRed' - Dynamic stochastic reduction
+62. 'PreJunc' - Algebraic preprocessing transformation
+63. 'BIE' - Cooperative and competitive environment modeling
+64. 'RetExtra' - Real-time bounded extraction
+65. 'AdaptDif' - Quantified transformation measure
+66. 'Chargen' - Electric charge accumulation rate
+67. 'OptRef' - Interval-preserving refinement
+68. 'Infinity_Control' - Asymptotic limit regulation
+69. 'SwitchV' - Dual-state alternation
+70. 'SwapV' - Matrix or array element swapping
+71. 'StateMod' - Adaptive conditional switching
+72. 'ReactComp' - Dynamic chemical reaction modeling
+73. 'DetFilter' - Logical and symbolic filtering
+74. 'SuperShoot' - Accelerated exponential growth
+75. 'Timeline_Graph_Matrix' - Graph-matrix visualization model
+76. 'InterBound' - Moving boundary intersection detection
+77. 'Summationic' - Nested multi-variable summations
+78. 'WeightPar' - Parsing weight evaluation
+79. 'InterAffect' - Influence quantification
+80. 'RealResp' - Real-time neural adaptation
+81. 'EncodEx' - Machine learning encoding framework
+82. 'ProxSim' - Realistic complex system simulation
+83. 'Percent_Power' - Relative strength quantification
+84. 'BrinkMet' - Baseline exceedance measurement
+85. 'Weighted_State' - Optimized composite state modeling
+86. 'Add_Multiple' - Multiply then add operation
+87. 'Radicant' - Exponential-radical hybrid function
+88. 'CustomV' - Dynamic variable modification
+89. 'Combine_It' - Order-independent subset selection
+90. 'Circulate_Seq' - Sequence element cycling
+91. 'CheckEst' - Combined checking and estimation
+92. 'check_add' - Multi-level criteria with addition
+93. 'Attract_F' - Gravitational-like attraction modeling
+94. 'Add_Multisplit' - Add-multiply-split hybrid function
+95. 'adapt_add' - Criteria-based adaptive addition
+96. 'Compress_F' - Digital data compression modeling
+97. 'DistribuTar' - Targeted resource distribution
+98. 'KnoProblem' - General-purpose math problem-solving framework
+99. 'Quclip' - Quantum error correction framework
+100. 'CyclSeq' - Cyclic iterator
+101. 'WeightSig' - Real-time signal weighting
+102. 'Oscillant_Function' - Exponential-sinusoidal periodic model
+103. 'Multiply_Percent' - Dual-input percentage multiplication
+104. 'In_Out_Analysis' - Input-output relationship assessment
+105. 'Equation_Circulation' - Equation flow analysis
+106. 'Computation_Percent' - Computational effort estimation
+107. 'Adding_Computation' - Recursive additive computation model
+108. 'Abstraction_Level' - Degree-of-abstraction quantifier
+109. 'Add_Multiply' - Add then multiply composite operator
+110. 'SensVar' - Sensitivity analysis function
+111. 'DynaSim' - Parameterized system simulation output
+112. 'Quantum_Gradient_Descent' - Iterative optimization minimizer
+113. 'Precent_Root' - Square-root percentage scaling
+114. 'WaveMap' - Adaptive signal modulation framework
 
 Prototype Lib
 ------------
